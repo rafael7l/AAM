@@ -1,4 +1,6 @@
 {
+  "posts": [
+{
   "cliente": [
     {
       "id": 1,
@@ -8,6 +10,15 @@
       "id": 2,
       "nome": "Maria"
     },
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
     "name": "typicode"

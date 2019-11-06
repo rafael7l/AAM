@@ -1,9 +1,9 @@
 {
   "cliente": [
-    { "id": 1, "nome": "Joao" },
-    { "id": 2, "nome": "Maria" },
-    { "id": 3, "nome": "Rafael" },
-    { "id": 4, "nome": "Amanda" }
+    { "id": 1, "nome": "Joao" ,"telefone": "1111-1111","endereço": "Rua 1, BH"},
+    { "id": 2, "nome": "Maria","telefone": "1111-1111","endereço": "Rua 2, SP" },
+    { "id": 3, "nome": "Rafael" ,"telefone": "1111-1111","endereço": "Rua 1, RJ"},
+    { "id": 4, "nome": "Amanda","telefone": "4444-4444" ,"endereço": "Rua 1, GO"}
   ],
   "profile": {
     "name": "typicode"

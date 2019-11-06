@@ -1,13 +1,8 @@
 {
   "cliente": [
-    {
-      "id": 1,
-      "nome": "Joao"
-    },
-    {
-      "id": 2,
-      "nome": "Maria"
-    },
+    { "id": 1, "name": "Joao" },
+    { "id": 2, "name": "Maria" },
+    { "id": 3, "name": "Rafael" }
   ],
   "profile": {
     "name": "typicode"

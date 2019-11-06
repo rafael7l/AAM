@@ -3,6 +3,7 @@
     { "id": 1, "name": "Joao" },
     { "id": 2, "name": "Maria" },
     { "id": 3, "name": "Rafael" }
+    { "id": 4, "name": "Amanda" }
   ],
   "profile": {
     "name": "typicode"
